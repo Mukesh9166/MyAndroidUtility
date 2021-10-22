@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/atomic_age</item>
+        <item>@font/averia_gruesa_libre</item>
+        <item>@font/baumans</item>
+        <item>@font/roboto_bold</item>
+        <item>@font/ubuntu</item>
+        <item>@font/ubuntu_bold</item>
+        <item>@font/ubuntu_light</item>
+
+    </array>
+</resources>

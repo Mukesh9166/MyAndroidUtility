@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyAndroidUtility</string>
+    <string name="lbl_take_camera_picture">Capture Image</string>
+    <string name="lbl_choose_from_gallery">Choose from gallery</string>
+</resources>
